@@ -14,4 +14,3 @@ A Streamlit-based Market Sizing simulator that computes **TAM (Total Addressable
 - Link for the website: https://tam-simulator-awpvrysww9puljrkcvnypo.streamlit.app/ 
 ---
 
-## Repo structure
