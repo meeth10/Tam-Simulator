@@ -11,7 +11,7 @@ A Streamlit-based Market Sizing simulator that computes **TAM (Total Addressable
 - Visualizations: line charts (scenarios), funnel charts (TAM→SAM→SOM), heatmaps across sectors
 - Streamlit UI for interactive exploration
 - Export to CSV (download button in app)
-
+- Link for the website: https://tam-simulator-awpvrysww9puljrkcvnypo.streamlit.app/ 
 ---
 
 ## Repo structure
