@@ -10,7 +10,7 @@ A Streamlit-based Market Sizing simulator that computes **TAM (Total Addressable
 - Monte Carlo sampling for SAM & SOM (optimistic / base / conservative)
 - Visualizations: line charts (scenarios), funnel charts (TAM→SAM→SOM), heatmaps across sectors
 - Streamlit UI for interactive exploration
-- Export to CSV (download button in app)
+- Export to CSV 
 - Link for the website: https://tam-simulator-awpvrysww9puljrkcvnypo.streamlit.app/ 
 ---
 
